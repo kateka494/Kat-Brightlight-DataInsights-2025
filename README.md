@@ -7,13 +7,6 @@ Coffee Shop Sales Analysis
 # 📋 Project Overview
 This repository contains a data analysis project for a multi-location coffee shop chain within the period of 6 months. From January till July 2023. The goal is to analyze sales transaction data to uncover key business insights, identify trends, and provide data-driven recommendations to optimize operations, marketing, and product strategy.
 
-# 🛠️ Tool Used
-
-Excel-Data Wrangling, Initial Analysis, & Charting
-Snowflake SQL - Data Extraction & Aggregation
-Power BI -Interactive Data Visualization & Advanced Dashboarding
-Miro -Storyboarding
-Canva - Presentation Design & Branding
 
 # 📐 Data Dimensions (Breakdowns):
 The data is sliced along several key dimensions:
@@ -94,5 +87,11 @@ Focus on volume and loyalty promotions in Astoria and Lower Manhattan to maintai
 
 
 
-Conclusion
-This analysis reveals a successful business with a solid foundation but clear opportunities for growth. The primary lever for increased profitability is not necessarily acquiring more customers, but rather increasing the value derived from the existing large customer base through strategic upselling, product optimization, and smart promotions.
+# 🛠️ Tool Used
+
+Excel-Data Wrangling, Initial Analysis, & Charting
+Snowflake SQL - Data Extraction & Aggregation
+Power BI -Interactive Data Visualization & Advanced Dashboarding
+Miro -Storyboarding
+Canva - Presentation Design & Branding
+
