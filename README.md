@@ -60,8 +60,6 @@ Evenings are a major underperformer, representing a significant opportunity for 
 # Recommendations
 -Increase Average Transaction Value (ATV):
 
--Implement upselling training for staff (e.g., "Would you like a pastry with that?").
-
 -Introduce a tiered loyalty program that rewards higher spending, not just frequency.
 
 -Create and promote premium bundles (e.g., "Coffee Bag + Mug").
