@@ -5,7 +5,7 @@ This report was created in response to the appointment of a new CEO at Brightlig
 Coffee Shop Sales Analysis
 
 # 📋 Project Overview
-This repository contains a data analysis project for a multi-location coffee shop chain. The goal is to analyze sales transaction data to uncover key business insights, identify trends, and provide data-driven recommendations to optimize operations, marketing, and product strategy.
+This repository contains a data analysis project for a multi-location coffee shop chain within the period of 6 months. From January till July 2023. The goal is to analyze sales transaction data to uncover key business insights, identify trends, and provide data-driven recommendations to optimize operations, marketing, and product strategy.
 
 # 📐 Data Dimensions (Breakdowns):
 The data is sliced along several key dimensions:
